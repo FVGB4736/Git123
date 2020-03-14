@@ -1,0 +1,8 @@
+         1234            //X
+        System.out.println("-----------------------------------------");
+        if(name!=null) {
+        	System.out.println(name.trim().length()==0);     //V
+        	System.out.println(name.trim().isEmpty());       //V
+        	System.out.println(name.trim().equals(""));      //V
+        }
+
