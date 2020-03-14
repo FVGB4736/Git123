@@ -5,4 +5,6 @@ master      //X
         	System.out.println(name.trim().isEmpty());       //V
         	System.out.println(name.trim().equals(""));      //V
         }
+        
+        online
 
