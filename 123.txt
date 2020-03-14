@@ -1,4 +1,4 @@
-         1234            //X
+master      //X
         System.out.println("-----------------------------------------");
         if(name!=null) {
         	System.out.println(name.trim().length()==0);     //V
